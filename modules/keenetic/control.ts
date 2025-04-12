@@ -16,7 +16,7 @@ import type {
   DhcpServer,
   RouterConfiguration,
   UsbDevice,
-} from "../types/keenetic-api-types"
+} from "./types"
 
 export interface KeeneticCredentials {
   host: string
